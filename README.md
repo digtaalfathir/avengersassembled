@@ -2,9 +2,9 @@
 
 ### Kategori Turtlebot
 
-1. Pemanfaatan TurtleBot3 sebagai Media Pembelajaran Pemrograman ROS (Robot Operating System) di Prodi Pendidikan Teknik Elektro
-2. Pemanfaatan TurtleBot3 sebagai Media Interaktif untuk Pembelajaran Dasar Pemrograman ROS di Pendidikan Teknik Elektro
-3. Integrasi TurtleBot3 dengan Sistem Komunikasi Nirkabel untuk Pembelajaran Remote Monitoring di Prodi Teknik Elektro
+1. Pengembangan Media Pembelajaran Robot Operating System (ROS) Berbasis TurtleBot3 pada Mata Kuliah Robotika
+2. Rancang Bangun Media Pembelajaran Robotika Berbasis ROS (Robot Operating System) dengan Implementasi TurtleBot3
+3. Pemanfaatan TurtleBot3 sebagai Media Pembelajaran Robot Operating System (ROS) pada Mata Kuliah Robotika
 
 ### Kategori ArduinoBlock
 
