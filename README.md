@@ -1,7 +1,33 @@
-# Daftar Usulan Judul
+# Progres Bab 2
 
-### Kategori Turtlebot
+### Deskripsi Teori
 
-- [ ] Pengembangan Media Pembelajaran Robot Operating System (ROS) Berbasis TurtleBot3 pada Mata Kuliah Robotika
-- [ ] Rancang Bangun Media Pembelajaran Robotika Berbasis ROS (Robot Operating System) dengan Implementasi TurtleBot3
-- [x] Pemanfaatan TurtleBot3 sebagai Media Pembelajaran Robot Operating System (ROS) pada Mata Kuliah Robotika
+- [x] Penelitian dan Pengembangan
+- [x] Media Pembelajaran
+- [x] Modul Pembelajaran
+- [ ] Robot Operating System
+- [ ] Turtlebot3
+- [ ] Sistem Navigasi dan Pemetaan Robot
+- [ ] Gazebo
+- [ ] Rviz (ROS Visualization)
+- [ ] Python
+- [ ] C++
+- [x] Mata Kuliah Robotika (EKO6238)
+- [x] Pengujian Modul Pembelajaran
+ 
+### Penelitian Relevan
+
+- [ ] 1
+- [ ] 2
+- [ ] 3
+
+### Kerangka Berfiir
+
+- [ ] Paragraf
+- [ ] Gambar
+
+### Pertanyaan Penelitian
+
+- [ ] 1
+- [ ] 2
+- [ ] 3
