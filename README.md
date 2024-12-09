@@ -1,4 +1,20 @@
-# Progres Bab 2
+## Progres Pra-Bab
+
+- [x] Cover
+- [ ] Abstrak Indo
+- [ ] Abstrak Eng
+- [ ] Lember Persetujuan
+- [x] Surat Pernyataan
+- [ ] Lember Pengesahan
+- [x] Halaman Motto
+- [ ] Halaman Persembahan
+- [ ] Kata Pengantar
+- [ ] Daftar Isi
+- [ ] Daftar Gambar
+- [ ] Daftar Tabel
+- [ ] Daftar Lampiran
+
+## Progres Bab 2
 
 ### Deskripsi Teori
 
