@@ -14,6 +14,15 @@
 - [ ] Daftar Tabel
 - [ ] Daftar Lampiran
 
+## Progres Bab 1
+
+- [x] Latar Belakang
+- [x] Identifikasi Masalah
+- [x] Batasan Masalah
+- [x] Rumusan Masalah
+- [x] Tujuan Penelitian
+- [x] Manfaat Penelitian
+
 ## Progres Bab 2
 
 ### Deskripsi Teori
@@ -47,3 +56,4 @@
 - [ ] 1
 - [ ] 2
 - [ ] 3
+
